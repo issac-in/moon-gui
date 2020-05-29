@@ -1,7 +1,7 @@
 # COGS18 Final Project: Moon GUI
 
 ## Description
-This is a Python Tkinter moon GUI program. The GUI allows the user to input a given date, and a U.S. city, to get information on:
+This is a Python Tkinter moon GUI program. The GUI allows the user to input any date after January 6th, 2000 & a U.S. city, to get information on:
 
 1. Moon-phase (+ a matching visual image)
 
