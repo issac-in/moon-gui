@@ -1,5 +1,3 @@
-Modules I use in my project that aren't included by default:
-
-1. PIL ( pip install pillow )
-2. requests ( pip install requests )
-3. bs4 ( pip install beautifulsoup4 )
+pillow
+requests
+beautifulsoup4
