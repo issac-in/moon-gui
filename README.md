@@ -3,9 +3,11 @@
 ## Description
 This is a Python Tkinter moon GUI program. The GUI allows for the user to input a given date, and a U.S. city, to get information on:
 
-Moon-phase (+ a matching visual image)
-Moon-rise
-Moon-set
+1. Moon-phase (+ a matching visual image)
+
+2. Moon-rise
+
+3. Moon-set
 
 ## Setup
 Cannot be run on Jupyter because it utilizes Tkinter.
